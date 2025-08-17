@@ -1,5 +1,4 @@
-# Data-Analyst-Power-BI
-HR Analyst
+# Data-Analyst (HR Analyst)
 
 ## 📊 Overview
 This project presents an HR Analytics Dashboard designed to provide insights into workforce data and support data-driven decision-making. The dashboard helps HR teams track key metrics, identify trends, and improve organizational efficiency.
